@@ -97,6 +97,7 @@ sectionpg2{
   }
    .main1{
     border-bottom-style: solid;
+    border-right-style: none;
    }
    .main2{
      background-size: 300px;
@@ -111,7 +112,6 @@ sectionpg2{
      border-top-style: solid;
      border-left-style: unset;
    }
-
 } 
 
 
