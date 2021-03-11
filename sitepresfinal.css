@@ -25,7 +25,7 @@ section {
   flex-grow: 2;
   max-width: 1000px;
   border-right-style: solid;
-    
+   
 }
 .main2 {
   height: 100%;
@@ -76,6 +76,16 @@ sectionpg2{
   background-color: rgb(105, 216, 236);
   max-width: 900px;
   border-left-style: solid;
+}
+.main5{
+  height: 100%;
+  flex-grow: 1;
+  background-color: rgb(105, 216, 236);
+  background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ghost-of-tsushima-1595602501.jpg?resize=768:*);
+  background-size: 400px;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center
 }
 @media (max-width: 768px) {
   section {
